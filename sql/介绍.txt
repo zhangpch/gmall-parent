@@ -1,0 +1,5 @@
+gmall_cms.sql
+gmall_oms.sql   订单管理系统
+gmall_pms.sql   商品管理系统
+gmall_sms.sql   营销系统
+gmall_ums.sql   用户管理系统
